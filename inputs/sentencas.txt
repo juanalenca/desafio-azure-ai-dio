@@ -1,0 +1,3 @@
+Esta é a primeira sentença de teste.
+Eu gosto de aprender novas tecnologias.
+Estou animado para testar este serviço de IA.
